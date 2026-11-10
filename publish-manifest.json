@@ -1,0 +1,15 @@
+[
+  "index.html",
+  "app.js",
+  "posts.js",
+  "i18n.js",
+  "markdown.js",
+  "vendor/dompurify-LICENSE.txt",
+  "vendor/marked-LICENSE.txt",
+  "vendor/marked.js",
+  "vendor/purify.js",
+  "vendor/VERSIONS.txt",
+  ".nojekyll",
+  "README.md",
+  "publish-manifest.json"
+]

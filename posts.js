@@ -1,4 +1,4 @@
-// Published journal articles. Account data stays on the local computer.
+// Published journal articles. Account data stays local.
 window.YYG_POSTS = [
   {
     "id": "805751ef-e42d-4d52-a19b-7a685bebf11e",
