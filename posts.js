@@ -1,6 +1,38 @@
 // Published journal articles. Account data stays local.
 window.YYG_POSTS = [
   {
+    "id": "ans",
+    "title": "ans",
+    "category": "Learning",
+    "excerpt": "原题扫描、答案与解析，以及数学辅助线与作图。",
+    "body": [
+      "## PDF 文件\n\n点击下方文件链接可打开或下载，也可以展开预览。\n\n[01_原题扫描整理.pdf](attachments/e96a0337878802a3d66b5a7b2c6e44b8.pdf)\n\n[02_答案与解析_符号修正版.pdf](attachments/8b9ac072ce2936a799f6f351eba093f2.pdf)\n\n[03_数学辅助线与作图_符号修正版.pdf](attachments/4261463bdc36668e58a250d4348028fe.pdf)"
+    ],
+    "format": "markdown",
+    "sample": false,
+    "date": "2026-11-10",
+    "author": "yungyugong",
+    "language": "zh-Hans",
+    "translations": {
+      "en": {
+        "title": "ans",
+        "excerpt": "Original questions, answers and explanations, and mathematics construction diagrams.",
+        "body": [
+          "## PDF files\n\nOpen a file below, expand its preview, or download it.\n\n[01_原题扫描整理.pdf](attachments/e96a0337878802a3d66b5a7b2c6e44b8.pdf)\n\n[02_答案与解析_符号修正版.pdf](attachments/8b9ac072ce2936a799f6f351eba093f2.pdf)\n\n[03_数学辅助线与作图_符号修正版.pdf](attachments/4261463bdc36668e58a250d4348028fe.pdf)"
+        ],
+        "format": "markdown"
+      },
+      "zh-Hans": {
+        "title": "ans",
+        "excerpt": "原题扫描、答案与解析，以及数学辅助线与作图。",
+        "body": [
+          "## PDF 文件\n\n点击下方文件链接可打开或下载，也可以展开预览。\n\n[01_原题扫描整理.pdf](attachments/e96a0337878802a3d66b5a7b2c6e44b8.pdf)\n\n[02_答案与解析_符号修正版.pdf](attachments/8b9ac072ce2936a799f6f351eba093f2.pdf)\n\n[03_数学辅助线与作图_符号修正版.pdf](attachments/4261463bdc36668e58a250d4348028fe.pdf)"
+        ],
+        "format": "markdown"
+      }
+    }
+  },
+  {
     "id": "805751ef-e42d-4d52-a19b-7a685bebf11e",
     "title": "hello world",
     "category": "Life",
