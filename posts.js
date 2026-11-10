@@ -1,8 +1,35 @@
-// Edit posts here. See README.txt for the format.
-window.YYG_POSTS = [{id:'a-new-beginning',title:'A new beginning, a little corner of the internet.',category:'Life',excerpt:'Every blog starts with a first page. This one is a place to collect thoughts, keep notes, and notice the small things.',body:['Welcome to YYG Blog. This is a sample first post to show how your writing will look.','A personal blog can be anything you want it to be: a notebook for what you learn, a record of everyday life, or a place to work through an idea.','Replace this sample with your own introduction when you are ready. There is no need to have everything figured out before you begin.']},{id:'learning-in-small-steps',title:'Learning something new, one small step at a time.',category:'Learning',excerpt:'A simple idea for a learning journal: write down one thing you understood today, and one question to follow tomorrow.',body:['This is an example learning note. Replace it with something you have recently discovered.','Try three short prompts: What did I learn? What surprised me? What do I want to explore next?','Small notes add up. The goal is to keep a useful record, one entry at a time.']},{id:'an-idea-notebook',title:'A notebook for ideas that aren’t quite finished.',category:'Notes',excerpt:'Some thoughts deserve a little space before they become anything bigger. A blog can be that space.',body:['This sample note is a starting point for your own ideas.','You can publish a short observation, a question, or a few lines about something that caught your attention. A post does not have to be an essay.','Make this space your own, and let it grow with you.']}];
-
-window.YYG_SAMPLE_ZH={
- 'a-new-beginning':{title:'一个新的开始，互联网中的一方小天地。',excerpt:'每个博客都从第一页开始。在这里收集想法、记下笔记，留意生活中的小事。',body:['欢迎来到 YYG Blog。这是一篇示例首文，用来展示你的文字在博客中的样子。','个人博客可以是学习笔记、日常生活的记录，也可以是梳理想法的地方。','准备好后，请把这篇示例替换成你自己的介绍。不必等一切想清楚了才开始。']},
- 'learning-in-small-steps':{title:'学习新事物，一次迈出一小步。',excerpt:'一个简单的学习日志方法：写下今天弄懂的一件事，以及明天想继续探索的一个问题。',body:['这是一篇示例学习笔记，请用你最近的新发现替换。','试着回答三个问题：我学到了什么？什么让我惊讶？接下来想探索什么？','小笔记也会慢慢积累。目标是每次留下一条有用的记录。']},
- 'an-idea-notebook':{title:'给尚未成形的想法，一本笔记本。',excerpt:'有些想法在长大之前，需要一点空间。博客就可以成为这样的地方。',body:['这篇示例随笔，是你记录自己想法的起点。','可以写一条观察、一个问题，或是几句让你留意的事。文章不必很长。','让这个地方属于你，陪你慢慢成长。']}
-};
+// Published journal articles. Account data stays on the local computer.
+window.YYG_POSTS = [
+  {
+    "id": "805751ef-e42d-4d52-a19b-7a685bebf11e",
+    "title": "hello world",
+    "category": "Life",
+    "excerpt": "Every blog starts with \"Hello, World!\"",
+    "body": [
+      "Welcome to **YYG Blog**.\n\n**Programming:** I will post solutions to problems from platforms like Luogu.\n\n**Academics:** I might post about this occasionally (though rarely).\n\n**Projects:** I will share updates and news regarding my own projects (hosted on GitHub).\n\n**Life:** I might post about this, but very infrequently.\n\n**Other:** Maybe—who knows?\n\nAlright, that’s about it!"
+    ],
+    "format": "markdown",
+    "sample": false,
+    "date": "2026-11-07",
+    "author": "yungyugong",
+    "language": "en",
+    "translations": {
+      "en": {
+        "title": "hello world",
+        "excerpt": "Every blog starts with \"Hello, World!\"",
+        "body": [
+          "Welcome to **YYG Blog**.\n\n**Programming:** I will post solutions to problems from platforms like Luogu.\n\n**Academics:** I might post about this occasionally (though rarely).\n\n**Projects:** I will share updates and news regarding my own projects (hosted on GitHub).\n\n**Life:** I might post about this, but very infrequently.\n\n**Other:** Maybe—who knows?\n\nAlright, that’s about it!"
+        ],
+        "format": "markdown"
+      },
+      "zh-Hans": {
+        "title": "hello world",
+        "excerpt": "每个博客都从hello world开始。",
+        "body": [
+          "欢迎来到 **YYG Blog**。\n\n**关于编程** 这个博客我会发一些有关luogu等做题平台的题解。\n\n**关于文化课** 我有时也会发（很少的）\n\n**关于项目** 我自己的项目（托管在github上），会发一下更新等动态\n\n**关于生活** 会发，但很少\n\n**其他** 可能把\n\nok，就这些吧"
+        ],
+        "format": "markdown"
+      }
+    }
+  }
+];

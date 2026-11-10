@@ -4,7 +4,7 @@ Personal blog by **yungyugong**. GitHub account: **yunyugong**.
 
 This is the static GitHub Pages edition. It includes English / 简体中文,
 linked article translations, Markdown rendering, category filters, search,
-and light/dark mode. Bundled example posts are clearly labeled as samples.
+and light/dark mode. Articles are exported from the local author desk.
 
 ## Publish
 
@@ -19,7 +19,7 @@ Edit articles in `posts.js`, preserving its JavaScript structure. Posts may have
 `language` and `translations` fields for multiple versions. The local private
 Python author desk is distributed separately and is not hosted on GitHub Pages.
 
-This package contains only sample articles; it excludes your local saved article,
-account files, passwords, browser drafts, and the author server.
+Only journal article content is published. Account files, passwords, browser
+drafts, and the author server remain on the local computer.
 
 Third-party library licenses are in `vendor/`.
